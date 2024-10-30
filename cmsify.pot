@@ -1,0 +1,548 @@
+# Copyright (C) 2010 CMSify
+# This file is distributed under the same license as the CMSify package.
+msgid ""
+msgstr ""
+"Project-Id-Version: CMSify 0.5\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/cmsify\n"
+"POT-Creation-Date: 2011-08-16 03:13:49+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  plugin.pot (CMSify 0.5)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: cmsify.php:75 cmsify.php:582
+msgid "CMSify"
+msgstr ""
+
+#: cmsify.php:202
+msgid "CMSify Settings"
+msgstr ""
+
+#: cmsify.php:204
+msgid "Settings saved."
+msgstr ""
+
+#: cmsify.php:218
+msgid "Admin"
+msgstr ""
+
+#: cmsify.php:219
+msgid "Media"
+msgstr ""
+
+#: cmsify.php:220
+msgid "Editor"
+msgstr ""
+
+#: cmsify.php:221 cmsify.php:487
+msgid "Recommendations"
+msgstr ""
+
+#: cmsify.php:224
+msgid "Administration Options"
+msgstr ""
+
+#: cmsify.php:228
+msgid "Upgrade Notifications"
+msgstr ""
+
+#: cmsify.php:228
+msgid "Remove upgrade notifications for non-administrators"
+msgstr ""
+
+#: cmsify.php:230
+msgid "Disable Upgrade Notice for Non-Admins"
+msgstr ""
+
+#: cmsify.php:234
+msgid "Dashboard Widgets"
+msgstr ""
+
+#: cmsify.php:234
+msgid "Remove dashboard widgets from all users view"
+msgstr ""
+
+#: cmsify.php:237
+msgid "Main Column"
+msgstr ""
+
+#: cmsify.php:237
+msgid "Right Now"
+msgstr ""
+
+#: cmsify.php:238 cmsify.php:268
+msgid "Recent Comments"
+msgstr ""
+
+#: cmsify.php:239
+msgid "Incoming Links"
+msgstr ""
+
+#: cmsify.php:240
+msgid "Plugins"
+msgstr ""
+
+#: cmsify.php:243
+msgid "Side Column"
+msgstr ""
+
+#: cmsify.php:243
+msgid "Quick Press"
+msgstr ""
+
+#: cmsify.php:244
+msgid "Recent Drafts"
+msgstr ""
+
+#: cmsify.php:245
+msgid "Primary Feed"
+msgstr ""
+
+#: cmsify.php:246
+msgid "Secondary Feed"
+msgstr ""
+
+#: cmsify.php:248
+msgid "Plugin Widgets"
+msgstr ""
+
+#: cmsify.php:249
+msgid ""
+"Plugins that install dashboard widgets can be disabled below.  Get the value "
+"from the Dashboards Screen Options checkbox and enter them below - comma "
+"separated please."
+msgstr ""
+
+#: cmsify.php:258
+msgid "Widgets"
+msgstr ""
+
+#: cmsify.php:258
+msgid "Remove widgets from users view"
+msgstr ""
+
+#: cmsify.php:261
+msgid "Archives"
+msgstr ""
+
+#: cmsify.php:262
+msgid "Calendar"
+msgstr ""
+
+#: cmsify.php:263 cmsify.php:289 cmsify.php:341
+msgid "Categories"
+msgstr ""
+
+#: cmsify.php:264
+msgid "Links"
+msgstr ""
+
+#: cmsify.php:266
+msgid "Meta"
+msgstr ""
+
+#: cmsify.php:267
+msgid "Pages"
+msgstr ""
+
+#: cmsify.php:269
+msgid "Recent Posts"
+msgstr ""
+
+#: cmsify.php:271
+msgid "RSS"
+msgstr ""
+
+#: cmsify.php:272
+msgid "Search"
+msgstr ""
+
+#: cmsify.php:273
+msgid "Tag Cloud"
+msgstr ""
+
+#: cmsify.php:274
+msgid "Text"
+msgstr ""
+
+#: cmsify.php:285
+msgid "Post Columns"
+msgstr ""
+
+#: cmsify.php:285
+msgid "Remove post columns from the View All Posts panel for all users"
+msgstr ""
+
+#: cmsify.php:288 cmsify.php:311 cmsify.php:339 cmsify.php:364
+msgid "Author"
+msgstr ""
+
+#: cmsify.php:291 cmsify.php:313 cmsify.php:336 cmsify.php:360
+msgid "Comments"
+msgstr ""
+
+#: cmsify.php:292
+msgid "Tags"
+msgstr ""
+
+#: cmsify.php:294 cmsify.php:315
+msgid "Date"
+msgstr ""
+
+#: cmsify.php:308
+msgid "Page Columns"
+msgstr ""
+
+#: cmsify.php:308
+msgid "Remove page columns from the View All Pages panel for all users"
+msgstr ""
+
+#: cmsify.php:329
+msgid "Post Meta Boxes"
+msgstr ""
+
+#: cmsify.php:329
+msgid "Remove post meta boxes from the Edit Posts panel for all users"
+msgstr ""
+
+#: cmsify.php:332
+msgid "Excerpt"
+msgstr ""
+
+#: cmsify.php:333
+msgid "Send Trackbacks"
+msgstr ""
+
+#: cmsify.php:334 cmsify.php:358
+msgid "Custom Fields"
+msgstr ""
+
+#: cmsify.php:335 cmsify.php:359
+msgid "Discussions"
+msgstr ""
+
+#: cmsify.php:338 cmsify.php:362
+msgid "Slug"
+msgstr ""
+
+#: cmsify.php:340 cmsify.php:365
+msgid "Revisions"
+msgstr ""
+
+#: cmsify.php:342
+msgid "Post Tags"
+msgstr ""
+
+#: cmsify.php:345
+msgid ""
+"Plugins that install additional meta boxes can be disabled below.  Get the "
+"value from the Edit Posts Screen Options checkbox and enter them below - "
+"comma separated please."
+msgstr ""
+
+#: cmsify.php:354
+msgid "Page Meta Boxes"
+msgstr ""
+
+#: cmsify.php:354
+msgid "Remove page meta boxes from the Edit Page panel for all users"
+msgstr ""
+
+#: cmsify.php:366
+msgid "Page Attributes"
+msgstr ""
+
+#: cmsify.php:370
+msgid ""
+"Plugins that install additional meta boxes can be disabled below.  Get the "
+"value from the Edit Page Screen Options checkbox and enter them below - "
+"comma separated please."
+msgstr ""
+
+#: cmsify.php:385
+msgid "Media Options"
+msgstr ""
+
+#: cmsify.php:389
+msgid "Maximum Full Size"
+msgstr ""
+
+#: cmsify.php:389
+msgid ""
+"Set the maximum size your Media should save, this will replace your Full "
+"Size image."
+msgstr ""
+
+#: cmsify.php:391 cmsify.php:405 cmsify.php:412
+msgid "Height:"
+msgstr ""
+
+#: cmsify.php:391 cmsify.php:392 cmsify.php:405 cmsify.php:406 cmsify.php:412
+#: cmsify.php:413
+msgid "px"
+msgstr ""
+
+#: cmsify.php:392 cmsify.php:406 cmsify.php:413
+msgid "Width:"
+msgstr ""
+
+#: cmsify.php:396
+msgid "Image Sizes"
+msgstr ""
+
+#: cmsify.php:404 cmsify.php:411 cmsify.php:467 cmsify.php:474
+msgid "Label:"
+msgstr ""
+
+#: cmsify.php:404 cmsify.php:411
+msgid "(no spaces/special characters)"
+msgstr ""
+
+#: cmsify.php:407 cmsify.php:414
+msgid "Crop"
+msgstr ""
+
+#: cmsify.php:417 cmsify.php:479
+msgid "Add Another Row"
+msgstr ""
+
+#: cmsify.php:417 cmsify.php:479
+msgid "Remove Last Row"
+msgstr ""
+
+#: cmsify.php:419
+msgid ""
+"New uploaded images will also be created with these sizes in addition to the "
+"usual, thumbnail, medium &amp; large.  You can use access these new images "
+"using the function <code>&lt;?php <a href=\"http://codex.wordpress.org/"
+"Function_Reference/wp_get_attachment_image_src\" target=\"_blank"
+"\">wp_get_attachment_image_src( $attachment_id, $size, $icon );</a> ?&gt; </"
+"code> where $size is the label you entered above."
+msgstr ""
+
+#: cmsify.php:420
+msgid "REBUILD ALL UPLOADED IMAGES"
+msgstr ""
+
+#: cmsify.php:431
+msgid "Editor Options"
+msgstr ""
+
+#: cmsify.php:432
+msgid ""
+"CMSify recommends the <a href=\"http://wordpress.org/extend/plugins/tinymce-"
+"advanced/\" target=\"_blank\">TinyMCE Advanced</a> plugin for additional "
+"post/page editor functionality."
+msgstr ""
+
+#: cmsify.php:436
+msgid "TinyMCE Block Format Selections"
+msgstr ""
+
+#: cmsify.php:439
+msgid "Paragraph"
+msgstr ""
+
+#: cmsify.php:440
+msgid "Heading 1"
+msgstr ""
+
+#: cmsify.php:441
+msgid "Heading 2"
+msgstr ""
+
+#: cmsify.php:442
+msgid "Heading 3"
+msgstr ""
+
+#: cmsify.php:443
+msgid "Heading 4"
+msgstr ""
+
+#: cmsify.php:445
+msgid "Heading 5"
+msgstr ""
+
+#: cmsify.php:446
+msgid "Heading 6"
+msgstr ""
+
+#: cmsify.php:447
+msgid "Address"
+msgstr ""
+
+#: cmsify.php:448
+msgid "Preformatted"
+msgstr ""
+
+#: cmsify.php:449
+msgid "Div"
+msgstr ""
+
+#: cmsify.php:451
+msgid "Blockquote"
+msgstr ""
+
+#: cmsify.php:452
+msgid "Definition Term"
+msgstr ""
+
+#: cmsify.php:453
+msgid "Definition Description"
+msgstr ""
+
+#: cmsify.php:454
+msgid "Code"
+msgstr ""
+
+#: cmsify.php:455
+msgid "Code Sample"
+msgstr ""
+
+#: cmsify.php:460
+msgid "TinyMCE Custom Font Sizes"
+msgstr ""
+
+#: cmsify.php:468 cmsify.php:475
+msgid "Value:"
+msgstr ""
+
+#: cmsify.php:468 cmsify.php:475
+msgid "(examples: 5px, 5em, small, .large)"
+msgstr ""
+
+#: cmsify.php:488
+msgid ""
+"The following is a list of Plugins that CMSify recommends for further "
+"enhancement of your WordPress CMS environment:"
+msgstr ""
+
+#: cmsify.php:490
+msgid "TinyMCE Advanced"
+msgstr ""
+
+#: cmsify.php:490
+msgid "Enables the advanced features of TinyMCE, the WordPress WYSIWYG editor."
+msgstr ""
+
+#: cmsify.php:491
+msgid "WordPress SEO by Yoast"
+msgstr ""
+
+#: cmsify.php:491
+msgid ""
+"Yoast's all in one SEO solution for your WordPress blog: SEO titles, meta "
+"descriptions, XML sitemaps, breadcrumbs &amp; much more."
+msgstr ""
+
+#: cmsify.php:492
+msgid "Pods CMS"
+msgstr ""
+
+#: cmsify.php:492
+msgid ""
+"Pods is a CMS framework for creating, managing, and deploying customized "
+"content types."
+msgstr ""
+
+#: cmsify.php:493
+msgid "More Fields"
+msgstr ""
+
+#: cmsify.php:493
+msgid ""
+"Adds any number of extra fields in any number of additional boxes on the "
+"Write/Edit page in the Admin."
+msgstr ""
+
+#: cmsify.php:494
+msgid "Simple Page Ordering"
+msgstr ""
+
+#: cmsify.php:494
+msgid ""
+"Order your pages and other hierarchical post types with simple drag and "
+"drop. Also adds a drop down to change items per page."
+msgstr ""
+
+#: cmsify.php:495
+msgid "Gravity Forms"
+msgstr ""
+
+#: cmsify.php:495
+msgid "Premium Form Creator for WordPress"
+msgstr ""
+
+#: cmsify.php:496
+msgid "Shopp"
+msgstr ""
+
+#: cmsify.php:496
+msgid ""
+"Premium e-commerce plugin that adds a feature-rich online store to WordPress"
+msgstr ""
+
+#: cmsify.php:502
+msgid "Save Changes"
+msgstr ""
+
+#: cmsify.php:551
+msgid "All Images Rebuilt."
+msgstr ""
+
+#: cmsify.php:554
+msgid "Rebuilding"
+msgstr ""
+
+#: cmsify.php:573
+msgid "Rebuild Error"
+msgstr ""
+
+#: cmsify.php:582
+msgid "Rebuild Image Sizes"
+msgstr ""
+
+#: cmsify.php:586
+msgid "Rebuild your current uploaded images to new image sizes."
+msgstr ""
+
+#: cmsify.php:590
+msgid "Select Image Sizes to Rebuild"
+msgstr ""
+
+#: cmsify.php:614
+msgid "cropped"
+msgstr ""
+
+#: cmsify.php:619
+msgid "Last Rebuilt"
+msgstr ""
+
+#: cmsify.php:619
+msgid "(showing thumbnail size only):"
+msgstr ""
+
+#: cmsify.php:624
+msgid "Rebuild Selected Image Sizes"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (CMSify 0.5)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (CMSify 0.5)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.devbits.ca/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"CMSify your WordPress!  Additional options for extended features or hiding "
+"unneeded widgets, column and more!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "M. Fitzpatrick"
+msgstr ""

@@ -1,0 +1,11 @@
+<h3><?php _e('Recommendations', 'cmsify');?></h3>
+                        <p><?php _e('The following is a list of Plugins that CMSify recommends for further enhancement of your WordPress CMS environment:', 'cmsify');?></p>
+                        <ol>
+                        	<li><strong><a href="http://wordpress.org/extend/plugins/tinymce-advanced/" target="_blank"><?php _e('TinyMCE Advanced', 'cmsify');?></a></strong> - <?php _e('Enables the advanced features of TinyMCE, the WordPress WYSIWYG editor.', 'cmsify');?></li>
+                            <li><strong><a href="http://wordpress.org/extend/plugins/wordpress-seo/" target="_blank"><?php _e('WordPress SEO by Yoast', 'cmsify');?></a></strong> - <?php _e('Yoast\'s all in one SEO solution for your WordPress blog: SEO titles, meta descriptions, XML sitemaps, breadcrumbs &amp; much more.', 'cmsify');?></li>
+                            <li><strong><a href="http://wordpress.org/extend/plugins/pods/" target="_blank"><?php _e('Pods CMS', 'cmsify');?></a></strong> - <?php _e('Pods is a CMS framework for creating, managing, and deploying customized content types.', 'cmsify');?></li>
+                            <li><strong><a href="http://wordpress.org/extend/plugins/more-fields/" target="_blank"><?php _e('More Fields', 'cmsify');?></a></strong> - <?php _e('Adds any number of extra fields in any number of additional boxes on the Write/Edit page in the Admin.', 'cmsify');?></li>
+                            <li><strong><a href="http://wordpress.org/extend/plugins/simple-page-ordering/" target="_blank"><?php _e('Simple Page Ordering', 'cmsify');?></a></strong> - <?php _e('Order your pages and other hierarchical post types with simple drag and drop. Also adds a drop down to change items per page.', 'cmsify');?></li>
+                            <li><strong><a href="http://www.gravityforms.com/" target="_blank"><?php _e('Gravity Forms', 'cmsify');?></a></strong> - <?php _e('Premium Form Creator for WordPress', 'cmsify');?></li>
+                            <li><strong><a href="https://shopplugin.net/" target="_blank"><?php _e('Shopp', 'cmsify');?></a></strong> - <?php _e('Premium e-commerce plugin that adds a feature-rich online store to WordPress', 'cmsify');?></li>
+                        </ol>
